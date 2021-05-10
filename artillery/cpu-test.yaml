@@ -1,8 +1,8 @@
 config:
-  target: "http://35.222.16.183/"
+  target: "http://35.202.247.68"
   phases:
-    - duration: 120
-      arrivalRate: 32
+    - duration: 360
+      arrivalRate: 16
       name: Warm up
 scenarios:
   # We define one scenario:
